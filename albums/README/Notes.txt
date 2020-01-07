@@ -1,0 +1,6 @@
+Without using Expo , create project on React Native CLI 
+
+Calling API using Axios.
+Uses Index.js using class component.
+Use Linking, and learn about destructuring in a more fashion way.
+Customize your own button into a seperate component.
